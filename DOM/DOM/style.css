@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+#heading {
+    color:white;
+    text-decoration: wavy underline;
+    text-align: center;
+}
+
+.box{
+    color: white;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    border: 1px solid white;
+    text-align: center;
+    background-color: gray;
+
+}
+
+
